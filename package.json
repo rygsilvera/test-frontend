@@ -1,0 +1,18 @@
+{
+  "name": "test-frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "example",
+    "automation",
+    "frontend"
+  ],
+  "author": "Ryan Silvera / @rygsilvera / rygsilvera@gmail.com",
+  "license": "ISC",
+  "description": "A simple frontend test setup using Playwright for local testing purposes",
+  "devDependencies": {
+    "@playwright/test": "^1.47.2",
+    "@types/node": "^22.7.4"
+  }
+}
