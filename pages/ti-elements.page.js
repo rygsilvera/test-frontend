@@ -1,9 +1,9 @@
 // ti-elemnts.page.js
 
 const objects = {
-    tiElementsHeader: 'Add/Remove Elements',
-    tiAddElementButton: 'Add Element',
-    tiDelete: 'Delete'
+    elementsHeader: 'Add/Remove Elements',
+    addElementButton: 'Add Element',
+    delete: 'Delete'
 };
 
 export{objects};
